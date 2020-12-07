@@ -38,7 +38,7 @@ Project leader(s): Lizzie McDevitt, Sam Nastase, Paula Brooks
 
 **Thursday, December 10:**  
 * 9–9:30 AM: Day 1 progress report and Day 2 planning
-* 10-11 AM: [Plotly](https://plotly.com/Plotly)demo 
+* 10-11 AM: [Plotly](https://plotly.com/Plotly) demo 
 * 11–12 PM: Hacking  
 * 12–1 PM: Lunch and socializing
 * 1–5:30 PM: Hacking  
